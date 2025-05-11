@@ -1,0 +1,278 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>[#QA-3] Como usuário eu desejo criar uma conta na loja virtual.</title>
+    <meta http-equiv="Content-Type" Content="application/vnd.ms-word; charset=UTF-8">
+        <style type="text/css">
+
+.tableBorder, .grid
+{
+    background-color: #fff;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.tableBorder td, .grid td
+{
+    vertical-align: top;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+.noPadding
+{
+    padding: 0 !important;
+}
+
+h3 .subText
+{
+    font-size: 60%;
+    font-weight: normal;
+}
+
+.tabLabel
+{
+    font-weight: bold;
+    border: 1px solid #ccc;
+    border-bottom:none;
+    padding: 2px;
+    display: inline;
+}
+
+td.blank
+{
+    padding: 0;
+    margin: 0;
+}
+
+.blank td
+{
+    border: none;
+}
+
+#descriptionArea
+{
+    margin: 0;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+hr
+{
+    border-top:1px solid #aaa;
+}
+
+hr.fullcontent
+{
+  height: 15px;
+  padding: 10px 0;
+  background: #fff url('https://amandaabreu045.atlassian.net/images/icons/hr.gif') no-repeat scroll center;
+}
+
+</style>
+
+</head>
+<body>
+
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <h3 class="formtitle">
+                        [QA-3]&nbsp;<a href="https://amandaabreu045.atlassian.net/browse/QA-3">Como usuário eu desejo criar uma conta na loja virtual.</a>
+            <span class="subText">
+               Criado: 20/abr/25                   &nbsp;Atualizado(a): 11/mai/25
+
+                                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Status:</b></td>
+        <td width="80%">Tarefas pendentes</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Projeto:</b></td>
+        <td width="80%"><a href="https://amandaabreu045.atlassian.net/secure/BrowseProject.jspa?id=10002">Quality assurance</a></td>
+    </tr>
+
+        <tr>
+            <td><b>Componentes:</b></td>
+            <td>
+                            Nenhum
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Versões afetadas:</b></td>
+            <td>
+                            Nenhum
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Versões corrigidas:</b></td>
+            <td>
+                            Nenhum
+                </td>
+    </tr>
+    
+    
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>Tipo:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            Tarefa
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>Prioridade:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                Medium
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>Relator:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="712020:515595b2-4bdc-43b3-9db9-b7f06ede5b19"
+                id="word_reporter_712020:515595b2-4bdc-43b3-9db9-b7f06ede5b19"
+                href="https://amandaabreu045.atlassian.net/secure/ViewProfile.jspa?accountId=712020%3A515595b2-4bdc-43b3-9db9-b7f06ede5b19">
+                    Amanda Abreu
+                </a>
+
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Responsável:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                    Não atribuído
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>Resolução:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+            				Não resolvido(s)
+                    </td>
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Votos:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                0
+            </td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>Categorias:</b>
+        </td>
+        <td id="labels-10005-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            Nenhum
+                    </td>
+    </tr>
+    
+    	<tr>
+        		<td bgcolor="#f0f0f0" width="20%"><b>Estimativa de trabalho restante:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Desconhecido
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Tempo gasto:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Desconhecido
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Estimativa original:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Desconhecido
+            		</td>
+    </tr>
+    
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+        
+    
+
+
+    
+                        <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Rank:</b></td>
+                <td id="customfield_10019-10005-value" class="value" bgcolor="#ffffff" width="80%">      0|i00013:
+  </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Sprint:</b></td>
+                <td id="customfield_10020-10005-value" class="value" bgcolor="#ffffff" width="80%"></td>
+            </tr>
+            </table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Descrição</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td id="descriptionArea">
+            <h3><a name="Descri%C3%A7%C3%A3o"></a><b>Descrição</b></h3>
+
+<p><b>Valor</b>:<br/>
+Permitir que novos usuários criem uma conta na loja virtual é essencial para que possam realizar compras, acompanhar pedidos e acessar funcionalidades personalizadas da plataforma. Essa funcionalidade é a porta de entrada para a experiência completa de navegação e compra no e-commerce.</p>
+
+<h3><a name="NarrativadoUsu%C3%A1rio"></a><b>Narrativa do Usuário</b></h3>
+
+<p><b>Como</b>: usuário da aplicação<br/>
+<b>Eu quero</b>: criar uma conta na loja virtual<br/>
+<b>Para</b>: poder acessar funcionalidades exclusivas como realizar pedidos, salvar produtos e visualizar meu histórico de compras</p>
+
+<h3><a name="Crit%C3%A9riosdeAceita%C3%A7%C3%A3o"></a><b>Critérios de Aceitação</b></h3>
+
+<ol>
+	<li>O sistema deve disponibilizar um formulário de cadastro com os campos obrigatórios: nome completo, e-mail, senha e confirmação de senha.</li>
+	<li>O e-mail informado deve ser único e validado quanto ao formato.</li>
+	<li>A senha deve conter ao menos 8 caracteres.</li>
+	<li>O sistema deve impedir o cadastro caso algum campo obrigatório esteja vazio ou inválido.</li>
+	<li>Após o cadastro, o usuário deve ser redirecionado automaticamente para o painel da conta ou para a página inicial com confirmação de sucesso.</li>
+	<li>O sistema deve exibir mensagens claras de erro ou sucesso durante o processo de cadastro.</li>
+	<li>Dados do novo usuário devem ser armazenados com segurança no banco de dados.</li>
+</ol>
+
+            <br/>
+        </td>
+    </tr>
+    </table>
+
+Gerado em Sun May 11 14:50:53 UTC 2025 por Amanda Abreu usando JIRA 1001.0.0-SNAPSHOT#100283-rev:b313437bee33f337bb713e94b166455345e8bdee.
+
+</body>
+</html>
